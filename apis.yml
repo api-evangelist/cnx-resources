@@ -3,6 +3,17 @@ aid: cnx-resources
 url: https://github.com/api-evangelist/cnx-resources
 name: CNX Resources
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.cnx.com/favicon.ico
 tags:
   - Energy
